@@ -35,3 +35,11 @@ Through these problems, I strengthened my understanding of:
 
 ```text
 [████████████████████] 100%
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
