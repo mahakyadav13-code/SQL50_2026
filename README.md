@@ -60,6 +60,7 @@ Through these problems, I strengthened my understanding of:
 | [1193-monthly-transactions-i](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1341-movie-rating) |
