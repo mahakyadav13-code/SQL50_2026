@@ -53,6 +53,7 @@ Through these problems, I strengthened my understanding of:
 | [1174-immediate-food-delivery-ii](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1174-immediate-food-delivery-ii) |
 | [1280-students-and-examinations](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1321-restaurant-growth) |
+| [1527-patients-with-a-condition](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1661-average-time-of-process-per-machine) |
