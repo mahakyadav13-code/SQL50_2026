@@ -41,6 +41,7 @@ Through these problems, I strengthened my understanding of:
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0620-not-boring-movies) |
