@@ -43,6 +43,7 @@ Through these problems, I strengthened my understanding of:
 | ------- |
 | [0577-employee-bonus](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
