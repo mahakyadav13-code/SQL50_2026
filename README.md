@@ -50,6 +50,7 @@ Through these problems, I strengthened my understanding of:
 | [0596-classes-with-at-least-5-students](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/0626-exchange-seats) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/mahakyadav13-code/SQL50_2026/tree/master/1174-immediate-food-delivery-ii) |
